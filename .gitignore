@@ -134,9 +134,6 @@
 !/Engine/Binaries/DotNET/GitDependencies.exe
 !/Engine/Binaries/DotNET/GitDependencies.exe.config
 
-# Ignore content folders
-Content/
-
 # Ignore DDC
 /Engine/DerivedDataCache/**
 
