@@ -119,6 +119,10 @@
 !*.uasset
 !*.umap
 
+# Not ignore MYO
+!Binaries/Win64/
+!Binaries/Win32/
+
 # Add exceptions for Mac Mono binaries needed to run GitDependencies.exe.
 !/Engine/Binaries/ThirdParty/Mono/Mac/bin/*
 !/Engine/Binaries/ThirdParty/Mono/Mac/etc/mono/config
