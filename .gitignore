@@ -114,14 +114,17 @@
 *.target.xml
 *.exe.config
 
-# Not ignore content files
+# Not Ignore content files
 !Content/
 !*.uasset
 !*.umap
 
-# Not ignore MYO
+# Not Ignore MYO
 !Binaries/Win64/myo64.dll
 !Binaries/Win32/myo32.dll
+
+# Not Ignore Plugin
+!Plugins/**
 
 # Add exceptions for Mac Mono binaries needed to run GitDependencies.exe.
 !/Engine/Binaries/ThirdParty/Mono/Mac/bin/*
