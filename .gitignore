@@ -120,8 +120,8 @@
 !*.umap
 
 # Not ignore MYO
-!Binaries/Win64/
-!Binaries/Win32/
+!Binaries/Win64/myo64.dll
+!Binaries/Win32/myo32.dll
 
 # Add exceptions for Mac Mono binaries needed to run GitDependencies.exe.
 !/Engine/Binaries/ThirdParty/Mono/Mac/bin/*
