@@ -124,7 +124,7 @@
 !Binaries/Win32/myo32.dll
 
 # Not Ignore Plugin
-!Plugins/**
+!Plugins/MyoPlugin/**
 
 # Add exceptions for Mac Mono binaries needed to run GitDependencies.exe.
 !/Engine/Binaries/ThirdParty/Mono/Mac/bin/*
