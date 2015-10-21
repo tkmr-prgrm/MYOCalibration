@@ -145,5 +145,7 @@ obj/
 Saved/
 /Engine/Programs/UnrealBuildTool/**
 
+!Content/
+
 # Explcitly ignore Mac DS_Store files, regardless of where they are
 .DS_Store
